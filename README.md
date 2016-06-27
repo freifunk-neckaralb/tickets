@@ -8,7 +8,7 @@ versuchen.
 In dem Repository tickets können alle Menschen mit GitHub-Account ein
 "Issue" anlegen und bearbeiten. Es ist also keine Mitgliedschaft in der
 GitHub-Organisation freifunk-tuebingen notwendig. Wer da trotzdem rein
-möchte schriebt mir einfach formlos seinen Nutzernamen per Mail.
+möchte schreibt mir (Justin) einfach formlos seinen Nutzernamen per Mail.
 
 Ein Beispiel:
 https://github.com/freifunk-tuebingen/tickets/issues/4
